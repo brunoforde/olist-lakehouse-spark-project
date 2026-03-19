@@ -1,0 +1,11 @@
+# Ignorar dados processados e brutos
+data/
+
+# Ignorar pastas virtuais e caches do Python
+__pycache__/
+.venv/
+venv/
+
+# Ignorar arquivos de sistema operacional
+.DS_Store
+Thumbs.db
